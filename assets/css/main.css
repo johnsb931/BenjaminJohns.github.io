@@ -3122,8 +3122,8 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
-					width: 150px; /* Adjust the size as needed */
-    				height: 150px; /* Adjust the size as needed */
+					width: 200px; /* Adjust the size as needed */
+    				height: 200px; /* Adjust the size as needed */
 				    object-fit: cover; /* Ensures the image cover the box */
  				    border-radius: 50%; /* Makes the image a circle */
 				}
